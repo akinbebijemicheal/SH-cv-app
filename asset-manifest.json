@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SH-cv-app/static/css/main.600da788.css",
+    "main.js": "/SH-cv-app/static/js/main.2b6b34a1.js",
+    "static/media/picture.jpg": "/SH-cv-app/static/media/picture.f33f2cd955d7e5bd4819.jpg",
+    "index.html": "/SH-cv-app/index.html",
+    "main.600da788.css.map": "/SH-cv-app/static/css/main.600da788.css.map",
+    "main.2b6b34a1.js.map": "/SH-cv-app/static/js/main.2b6b34a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.600da788.css",
+    "static/js/main.2b6b34a1.js"
+  ]
+}
