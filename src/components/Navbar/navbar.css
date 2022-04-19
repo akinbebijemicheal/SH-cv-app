@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ebeff2;
+    position: fixed;
+    height:80px;
+    width:100vw;
+    z-index: 10;
+}
+.navbar.active{
+    background: #fff;
+    box-shadow: 8px 8px 30px rgb(221, 220, 220); 
+}
+.logo{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 20px;
+    margin-left: 20px;
+    color:#54538a;
+}
+.navbar .nav-links{
+    display: flex;
+}
+ul li{
+    margin: 10px;
+    list-style:none;
+    text-transform: uppercase;
+    float: left;
+    padding: 20px;
+    font-weight: bolder;
+    color:#54538a;
+    text-align: none;
+    font-size:15px ;
+}
+ul li:hover{
+    color:#272755;
+    text-decoration: underline;
+}

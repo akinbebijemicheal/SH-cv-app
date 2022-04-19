@@ -1,0 +1,72 @@
+.esdiv{
+    background-color: #ebeff2;
+    height:700px;  
+    display: flex;
+    justify-content: space-evenly;
+}
+.k{
+    width:100%;
+    height:100% ;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.honemain{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color:#54538a;
+    position: absolute;
+    margin-top: -550px;
+    text-decoration: underline;
+}
+.htwo{
+    position: absolute;
+    margin-top: -490px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.hone{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color:#54538a;
+    position: absolute;
+    margin-top: -350px;
+    text-decoration: underline;
+    margin-left: 50px ;
+}
+.htwoo{
+    position: absolute;
+    margin-top: -300px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.honee{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color:#54538a;
+    position: absolute;
+    margin-top: -200px;
+    text-decoration: underline;
+    margin-left: 50px ;
+}
+.ex{
+    height:400px;
+    width:95%;
+    margin-top:250px;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: 1px 3px 10px 3px rgb(170, 169, 169); 
+}
+.h2{
+    margin-left: 50px;
+}
+.pan{
+    font-size: 15px;
+    margin-left: 50px;
+}
